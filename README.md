@@ -1,4 +1,4 @@
-# To-do List com CustomTkinter
+# To-do List com CustomTkinter 📝
 
 Este é um aplicativo de lista de tarefas (to-do list) desenvolvido com a biblioteca `CustomTkinter` e `matplotlib`. O aplicativo permite adicionar, editar, excluir e visualizar o progresso das tarefas com base no status de cada uma (marcada ou não). Também oferece a capacidade de exibir um gráfico de barras com as tarefas concluídas e não concluídas.
 
@@ -69,9 +69,9 @@ O aplicativo será aberto com a interface gráfica.
 ## Capturas de Tela
 ### Interface do Aplicativo
 1. **Tela Principal**: Exibe a lista de tarefas com a capacidade de adicionar, editar e excluir tarefas.
-![alt text](image-2.png)
+![image-2](https://github.com/user-attachments/assets/086b908b-c474-4a19-9eff-211535b01d14)
 2. **Gráfico de Status**: Exibe o gráfico de barras com as tarefas concluídas e não concluídas.
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/b906f989-245f-4a3b-a26b-f5afad3a24a9)
 ### Exemplo de Gráfico
 O gráfico exibido representa o status das tarefas, com as tarefas concluídas mostradas em verde e as não concluídas em vermelho.
 
